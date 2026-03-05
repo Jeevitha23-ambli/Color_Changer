@@ -1,0 +1,32 @@
+*{
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.container{
+    height:70vh;
+    padding:20rem;
+    padding-top: 65px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap:1.5vmin;
+
+}
+.b1{
+    width:40vmin;
+    height:40vmin;
+    border:1px rgb(0, 0, 0) solid;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: larger;
+    flex-wrap: wrap;
+    
+    color:black;
+}
+
+
+
